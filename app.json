@@ -1,7 +1,7 @@
 {
   "name": "VENOM_MD",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/Hammy254/VENOM_MD/blob/main/lib/assets/logo.png?raw=true",
+  "logo": "https://telegra.ph/file/28dd0fc5e1abdfcdd0586.jpg",
   "keywords": ["VENOM MD", "VENOM", "VENOM md","VENOM_MD","Venom","Venom md"],
   "success_url": "/",
   "stack": "container",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐇𝐀𝐌𝐌𝐘",
+      "value": "mehtab",
       "required": true
     },
 
